@@ -10,7 +10,7 @@ Some of my interests are
 
 I’m looking to collaborate on **Java, python, business intelligence tools, R, Tableau, Workday Studio, integrations, XSLT, XML** and anything new.
 
-You can reach out to me via LinkedIn or my email ID gisha.gopal@rutgers.edu 📫
+You can reach out to me via LinkedIn https://www.linkedin.com/in/gisha-gopal/ or my email ID gisha.gopal@rutgers.edu 📫
 
 <!---
 gisha-gopal/gisha-gopal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
